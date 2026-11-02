@@ -1,0 +1,316 @@
+{
+  "source": "TANF_TSTK12 / v0.8",
+  "slides": 45,
+  "toc_links": 31,
+  "images": 71,
+  "unique_images": 67,
+  "video_occurrences": 60,
+  "unique_videos": 40,
+  "report_videos": 21,
+  "help_videos": 19,
+  "broken_internal_links": [],
+  "source_text_preserved_except_corrected_chapter_reference": true,
+  "chapter_reference_correction": "3. fejezet helyett 4. fejezet (Elérhető riport típusok)",
+  "image_files": [
+    "HELP_M_KEZDO_M.jpg",
+    "HELP_M_NYITO.jpg",
+    "TSTK12_M001A.png",
+    "TSTK12_M002.png",
+    "TSTK12_M002A.jpg",
+    "TSTK12_M003.png",
+    "TSTK12_M004.png",
+    "TSTK12_M005.png",
+    "TSTK12_M006.png",
+    "TSTK12_M007.png",
+    "TSTK12_M008.png",
+    "TSTK12_M009.png",
+    "TSTK12_M010.png",
+    "TSTK12_M011.png",
+    "TSTK12_M012.png",
+    "TSTK12_M013.png",
+    "TSTK12_M014.png",
+    "TSTK12_M015.png",
+    "TSTK12_M016.png",
+    "TSTK12_M017.png",
+    "TSTK12_M018.png",
+    "TSTK12_M019.png",
+    "TSTK12_M020.png",
+    "TSTK12_M021.png",
+    "TSTK12_M022.png",
+    "TSTK12_M023.png",
+    "TSTK12_M024.png",
+    "TSTK12_M025.png",
+    "TSTK12_M026.png",
+    "TSTK12_M027.png",
+    "TSTK12_M028.png",
+    "TSTK12_M029.png",
+    "TSTK12_M030.png",
+    "TSTK12_M031.png",
+    "TSTK12_M032.png",
+    "TSTK12_M033.png",
+    "TSTK12_M034.png",
+    "TSTK12_M035.png",
+    "TSTK12_M036.png",
+    "TSTK12_M037.png",
+    "TSTK12_M038.png",
+    "TSTK12_M039.png",
+    "TSTK12_M040.png",
+    "TSTK12_M041.png",
+    "TSTK12_M042.png",
+    "TSTK12_M043.png",
+    "TSTK12_M044.png",
+    "TSTK12_M045.png",
+    "TSTK12_M047.png",
+    "TSTK12_M048.png",
+    "TSTK12_M049.png",
+    "TSTK12_M050.png",
+    "TSTK12_M051.png",
+    "TSTK12_M052.png",
+    "TSTK12_M053.png",
+    "TSTK12_M054.png",
+    "TSTK12_M055.png",
+    "TSTK12_M056.png",
+    "TSTK12_M057.png",
+    "TSTK12_M058.png",
+    "TSTK12_M122.jpg",
+    "TSTK12_M123.jpg",
+    "TSTK12_M124.jpg",
+    "TSTK12_M125.jpg",
+    "TSTK12_M126.jpg",
+    "TSTK12_M127.jpg",
+    "TSTK12_M128.jpg"
+  ],
+  "web_video_conversions": [
+    {
+      "file": "HELP_M_ILLUSTRATIONSLIDE.mp4",
+      "original_bytes": 25839071,
+      "web_bytes": 10246569
+    },
+    {
+      "file": "TSTK12_M000.mp4",
+      "original_bytes": 38743553,
+      "web_bytes": 10778347
+    },
+    {
+      "file": "HELP_M_VAKTERKEP.mp4",
+      "original_bytes": 28650591,
+      "web_bytes": 10978636
+    },
+    {
+      "file": "HELP_M_ALT2.mp4",
+      "original_bytes": 34621312,
+      "web_bytes": 13366200
+    }
+  ],
+  "videos": [
+    {
+      "file": "HELP_M_ALT1.mp4",
+      "bytes": 17850087,
+      "sha256": "d63a8f7646d13bb40d9f8418fa906ee29ae223aad9b534316539809f4af42a8d"
+    },
+    {
+      "file": "HELP_M_ALT2.mp4",
+      "bytes": 13366200,
+      "sha256": "703aec06708406d2f9141c7768e5cae891351250e42f287d2ca38601732221ee"
+    },
+    {
+      "file": "HELP_M_ILLUSTRATIONSLIDE.mp4",
+      "bytes": 10246569,
+      "sha256": "645ed44e29173b5988e13f4a4bb916b5590d32ba8c66b88fa8b314c429dab88c"
+    },
+    {
+      "file": "HELP_M_MFOLY.mp4",
+      "bytes": 11856651,
+      "sha256": "0c5c29c917cd6588042818add543f118ff1123eb7ac4b43bc77bc9abf8425005"
+    },
+    {
+      "file": "HELP_M_TESZT_ALTERN_VAL.mp4",
+      "bytes": 2756091,
+      "sha256": "30bed636252fa3755df4ae8638496e5d8c0a26d7e4b400ec0fdd96dfb8d2ffa5"
+    },
+    {
+      "file": "HELP_M_TESZT_BEV.mp4",
+      "bytes": 19917544,
+      "sha256": "8496518d169af9cb615127062901ac977dc16b2e19313224f8ea3b6ae9e186ab"
+    },
+    {
+      "file": "HELP_M_TESZT_FELELET.mp4",
+      "bytes": 4157431,
+      "sha256": "9685e78dedd611cf6b5f8b91f6f969f252da926e53b00d4173804484c99c44a5"
+    },
+    {
+      "file": "HELP_M_TESZT_HALMAZ.mp4",
+      "bytes": 3808666,
+      "sha256": "4791562f55fb16ed5257775ac24c507a38bac2de6042bce5122562315bfb784b"
+    },
+    {
+      "file": "HELP_M_TESZT_KEPKIEG.mp4",
+      "bytes": 3177968,
+      "sha256": "8d29af2a317fe83cf2885a703ae4e45732d5fdb0ed400a962f13307546800b55"
+    },
+    {
+      "file": "HELP_M_TESZT_NYILT_SZABAD_SZOV.mp4",
+      "bytes": 2845393,
+      "sha256": "4a3e83bc24df56fee13f951966f6cd117a580cdaea3bbec1ded807522072162d"
+    },
+    {
+      "file": "HELP_M_TESZT_PAR.mp4",
+      "bytes": 2760895,
+      "sha256": "ebf8524e0fb3905cac28b1f4cac14b01431b842b602f67a39017c9f3be861df6"
+    },
+    {
+      "file": "HELP_M_TESZT_RELACIO.mp4",
+      "bytes": 3817179,
+      "sha256": "4893e667f338ae58bb7589b2f6ca5577db6a2e7feda77367d5e23e178fb338ab"
+    },
+    {
+      "file": "HELP_M_TESZT_SOR.mp4",
+      "bytes": 3136515,
+      "sha256": "feb6dcb0390ae705d0ec34d2949babb9b0b894a25d5fc1db72d37e38ca1181f2"
+    },
+    {
+      "file": "HELP_M_TESZT_SZKIEG.mp4",
+      "bytes": 4958142,
+      "sha256": "b19869d6f18549da2d5cc747cc70f7a75808952603be5f63df3c988538cd9062"
+    },
+    {
+      "file": "HELP_M_TESZT_S_SKALA.mp4",
+      "bytes": 2982926,
+      "sha256": "376f96a2af3cb6ffdce0a7f05ad93b9a6458037b8e53794058e3b3e7fb8f4bca"
+    },
+    {
+      "file": "HELP_M_TESZT_TABL_KIEG.mp4",
+      "bytes": 3557202,
+      "sha256": "45c233d7824463a7f3da95444fe3f31a24a9b4bdbf9557406c84cba34875a067"
+    },
+    {
+      "file": "HELP_M_TESZT_VAKTERKEP.mp4",
+      "bytes": 17008949,
+      "sha256": "10f525f4a7e3ec1ebcd88c8fc26e074d6bbdc90a7a05171b809b35baddccde3b"
+    },
+    {
+      "file": "HELP_M_TESZT_VELBEKERO_SZABAD_SZ.mp4",
+      "bytes": 2343922,
+      "sha256": "38305920559c1ebd0c3e6b204234ce6a1e659fa553536eb02b7920c0cf8c36b0"
+    },
+    {
+      "file": "HELP_M_VAKTERKEP.mp4",
+      "bytes": 10978636,
+      "sha256": "1c1ed7579fb62af7647fdd7c5519c03a09bf8c06c60e9edd54788cebc171228d"
+    },
+    {
+      "file": "TSTK12_M000.mp4",
+      "bytes": 10778347,
+      "sha256": "66215ab652dbda2e63f1ee720937f75c604c0dac9e83908a798054a3519e636f"
+    },
+    {
+      "file": "TSTK12_M101.mp4",
+      "bytes": 7862456,
+      "sha256": "bdf99080f74250067adffead022b61ecaa2cdeb95653a5aefdf0822395fd96a7"
+    },
+    {
+      "file": "TSTK12_M102.mp4",
+      "bytes": 9662249,
+      "sha256": "a45c068f3ec0d77ba92ba540fb19445fcff05fd1749912c2eee43f4072f03c1f"
+    },
+    {
+      "file": "TSTK12_M103.mp4",
+      "bytes": 1716504,
+      "sha256": "1e7b172d62ef9657bd3ed788e573de7497b7651b677c45c1cf733f38f96807ab"
+    },
+    {
+      "file": "TSTK12_M104.mp4",
+      "bytes": 6810630,
+      "sha256": "b15112cbd93f675a94ea1a428833851f333e67785c2e012d466b5a24b125875b"
+    },
+    {
+      "file": "TSTK12_M105.mp4",
+      "bytes": 3069112,
+      "sha256": "d07515c5a93f8319ed725c7d96dc7b2da715920ec6d7c35f023be0a2273161b0"
+    },
+    {
+      "file": "TSTK12_M106.mp4",
+      "bytes": 6639390,
+      "sha256": "4623325cffbf4d4569518c4c22a659a48d5700c212cf60438cbfff7c6e4bfd83"
+    },
+    {
+      "file": "TSTK12_M107.mp4",
+      "bytes": 758550,
+      "sha256": "57ce7dfbdf9f791ec0252f760166ddb72f64be563369475dfbac5011b389e3ba"
+    },
+    {
+      "file": "TSTK12_M108.mp4",
+      "bytes": 851597,
+      "sha256": "e9b6e5db8298e3768efc65f987f02d797e43ee284289c94864f7337ce8234ffa"
+    },
+    {
+      "file": "TSTK12_M109.mp4",
+      "bytes": 1114407,
+      "sha256": "c74ce4daa77995bc3545afc7656657e71405cb53cecbc483c8b16cbc168d4d95"
+    },
+    {
+      "file": "TSTK12_M110.mp4",
+      "bytes": 2641463,
+      "sha256": "c6b6761ca32d67fa61d6244acef84d2b9f20018975b674af62fcd23ef71e46a5"
+    },
+    {
+      "file": "TSTK12_M111.mp4",
+      "bytes": 4301499,
+      "sha256": "5a33daef59af00449acdff9a36b3aa1f4373b6be4289bdf23262b38f77165c2c"
+    },
+    {
+      "file": "TSTK12_M112.mp4",
+      "bytes": 8537300,
+      "sha256": "cc7413f62125dd75096760926352f6d2ea3c03c58408efc21ecb5adca3db4e03"
+    },
+    {
+      "file": "TSTK12_M113.mp4",
+      "bytes": 4703763,
+      "sha256": "ff60a7ede803834dd169f73a0f8e8aaa9203e6f4fcf5ba6cc0f83f0b75530ace"
+    },
+    {
+      "file": "TSTK12_M114.mp4",
+      "bytes": 13504561,
+      "sha256": "a32b8e0b5ddd17e9da0370081d2857090ea5744d9714f1ff8033a2597cd910d1"
+    },
+    {
+      "file": "TSTK12_M115.mp4",
+      "bytes": 4786013,
+      "sha256": "c51e41c40cf4bb31e8447cda2a64c6acd39d6f2ee76269e7aeecc9177f159673"
+    },
+    {
+      "file": "TSTK12_M116.mp4",
+      "bytes": 4745941,
+      "sha256": "e076ce33bea262f9f464fb6077c9b928cedb3e881401110a1e37a71f93d89206"
+    },
+    {
+      "file": "TSTK12_M117.mp4",
+      "bytes": 3992472,
+      "sha256": "d6e39d7bd756c2050e0320bcd2cf84731e3628f41f969eb79912a3766dc116a0"
+    },
+    {
+      "file": "TSTK12_M118.mp4",
+      "bytes": 5163773,
+      "sha256": "35741f360169f38f2be615337e5fb1cc2afecd366094f7dbbc0b339d5805294e"
+    },
+    {
+      "file": "TSTK12_M119.mp4",
+      "bytes": 6270284,
+      "sha256": "1f61a564a565dbd28a39a22cac8eeb2168cf64ee6fadf086e15ffdea0cfcc7f0"
+    },
+    {
+      "file": "TSTK12_M120.mp4",
+      "bytes": 23048200,
+      "sha256": "eeab51f6059b6198fc8f45c3ffeffb07cbef8770bbf55dbfba5e3f0fead4c162"
+    }
+  ],
+  "local_browser_verification": {
+    "images_loaded": 71,
+    "video_occurrences_ready": 60,
+    "video_errors": 0,
+    "broken_internal_links": 0,
+    "play_pause_seek": "TSTK12_M101.mp4 – actual playback and seeking past 5 seconds verified",
+    "converted_intro_playback": "TSTK12_M000.mp4 – currentTime >5 seconds, 1280px video frame"
+  },
+  "html_sha256": "22df9326c53d7732cab4004af1f6ad8100ad0b442608569a19050865cdc0aabf"
+}
